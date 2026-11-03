@@ -110,6 +110,10 @@ hedwig
 
 This opens the Hedwig app. Type `/` to see the commands.
 
+<p align="center">
+  <img src="assets/cli.png" alt="The Hedwig TUI: the welcome banner and the / command palette" width="640">
+</p>
+
 Run the install command again to update. The repo must be public for these links to work.
 
 ## Commands
