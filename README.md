@@ -4,6 +4,8 @@
 
 <h1 align="center">Hedwig</h1>
 
+<p align="center"><strong>🏆 2nd runner-up — D3COY 1.0, DJSCE</strong></p>
+
 Developer-native cyber threat early warning. Hedwig reads threat intelligence, works out which
 threats matter to your services, and responds inside limits your team has approved: it scans your
 repo for vulnerable dependencies, ranks what actually matters, and — when you let it — fixes the
