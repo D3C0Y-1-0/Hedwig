@@ -93,13 +93,13 @@ Two independent halves meet at `hedwig watch`:
 Linux / macOS:
 
 ```sh
-curl -fsSL https://github.com/D3C0Y-1-0/BubblySorted_D3C0Y_YashSingh/releases/latest/download/install.sh | sh
+curl -fsSL https://github.com/D3C0Y-1-0/Hedwig/releases/latest/download/install.sh | sh
 ```
 
 Windows (PowerShell):
 
 ```powershell
-irm https://github.com/D3C0Y-1-0/BubblySorted_D3C0Y_YashSingh/releases/latest/download/install.ps1 | iex
+irm https://github.com/D3C0Y-1-0/Hedwig/releases/latest/download/install.ps1 | iex
 ```
 
 Open a new terminal, `cd` into the folder that holds your services, and run:

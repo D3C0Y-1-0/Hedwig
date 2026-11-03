@@ -1,8 +1,8 @@
 # Hedwig installer for Windows (PowerShell).
-# Usage: irm https://github.com/D3C0Y-1-0/BubblySorted_D3C0Y_YashSingh/releases/latest/download/install.ps1 | iex
+# Usage: irm https://github.com/D3C0Y-1-0/Hedwig/releases/latest/download/install.ps1 | iex
 $ErrorActionPreference = "Stop"
 
-$Repo = "D3C0Y-1-0/BubblySorted_D3C0Y_YashSingh"
+$Repo = "D3C0Y-1-0/Hedwig"
 
 if (-not (Get-Command uv -ErrorAction SilentlyContinue)) {
     Write-Host "Installing uv..."

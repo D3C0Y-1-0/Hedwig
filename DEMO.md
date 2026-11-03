@@ -15,7 +15,7 @@ each run without resetting anything by hand; `tools/demo_prs.py` has one command
 
 ```sh
 # update Hedwig to the latest release (>= 2.1.0), then check the tools
-curl -fsSL https://github.com/D3C0Y-1-0/BubblySorted_D3C0Y_YashSingh/releases/latest/download/install.sh | sh
+curl -fsSL https://github.com/D3C0Y-1-0/Hedwig/releases/latest/download/install.sh | sh
 
 # tools: docker, git, gh (GitHub CLI), uv, node/npm, mvn/java (for the transaction tests)
 gh auth login                       # the account that owns the demo repo
