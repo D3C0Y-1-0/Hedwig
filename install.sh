@@ -1,9 +1,9 @@
 #!/bin/sh
 # Hedwig installer for Linux and macOS.
-# Usage: curl -fsSL https://github.com/D3C0Y-1-0/BubblySorted_D3C0Y_YashSingh/releases/latest/download/install.sh | sh
+# Usage: curl -fsSL https://github.com/D3C0Y-1-0/Hedwig/releases/latest/download/install.sh | sh
 set -eu
 
-REPO="D3C0Y-1-0/BubblySorted_D3C0Y_YashSingh"
+REPO="D3C0Y-1-0/Hedwig"
 
 if ! command -v uv >/dev/null 2>&1; then
   echo "Installing uv..."
