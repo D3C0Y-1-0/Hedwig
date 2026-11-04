@@ -290,3 +290,5 @@ emails a SOC report. `--only flood,payload` or `--skip distributed,malware` runs
 Bump `version` in `pyproject.toml`, merge `main` into `release` and push. The `release` workflow
 lints, tests, builds, and publishes a GitHub Release with the wheel and installers attached. It
 fails if the `v<version>` tag already exists.
+
+<!-- signed commit test -->
